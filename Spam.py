@@ -1,9 +1,9 @@
 #!/usr/bin/python
 import requests,random,json,time,sys,os,re
 # -----------------------------------------------------------
-# created By ./Kitsune
+# created By ./Akoeappank
 # Update 14 Juny 2021 10:57
-# Thanks FoR FourX, MhankBarBar, Maulana, ITachI
+# Thanks FoR Four All
 # Underground Science And Termux Tutorial Group
 # ---------------------------------------------------------------
 
@@ -209,7 +209,7 @@ def multi():
 def logo():
 	os.system('clear')
 	auth=m+'  Author : '+k+'./kitsune'
-	# jika ingin m3namambah kan variabel dan mengubah data variabel kitsune bisa menambahkan %s menambahkan variabel terus di ubah menjjadu string, %d = mengubah data menjadi decimal , %i = mengubah data menjadi integer
+	# jika ingin m3namambah kan variabel dan mengubah data variabel akoeappank bisa menambahkan %s menambahkan variabel terus di ubah menjjadu string, %d = mengubah data menjadi decimal , %i = mengubah data menjadi integer
 	return '''
 %s╭━┳━╭━╭━╮%s╮╲╲╲╲╲╲%s╔═╗╔═╗╔═╗╔╦╗
 %s┃┈┈┈┣▅╋▅┫┃%s╲╲╲╲╲╲%s╚═╗╠═╝╠═╣║║║
