@@ -4,7 +4,7 @@ import requests,random,json,time,sys,os,re
 # created By ./Akoeappank
 # Update 14 Juny 2024 10:57
 # Thanks FoR Four All
-# Underground Science And Termux Tutorial Group
+# Underground Termux Community
 # ---------------------------------------------------------------
 
 # -----------------------WARNA----------------------------
